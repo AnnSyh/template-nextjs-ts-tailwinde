@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.active-link {
+  @apply text-blue-400;
+}
+
+.navbar-wrap {
+  @apply min-w-[100%];
+}
+.navbar-ul {
+  @apply flex min-w-[100%] h-[50px] items-center justify-around text-white bg-gray-500;
+}
+.footer {
+  @apply flex h-24 w-full items-center justify-center border-t;
+}
+.page-title {
+  @apply w-full block text-5xl text-center font-bold my-4 py-10;
+}
+.text-title {
+  @apply w-full block text-4xl text-center font-bold my-4 py-10;
+}
