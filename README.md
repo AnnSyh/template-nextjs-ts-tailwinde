@@ -28,4 +28,4 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 ## Foto
 
-![Image](https://github.com/AnnSyh/template-nextjs-ts-tailwinde/blob/main/public/images/profile.jpg)
+![Image]([https://github.com/AnnSyh/template-nextjs-ts-tailwinde/blob/main/public/images/profile.jpg](https://github.com/AnnSyh/template-nextjs-ts-tailwinde/blob/main/public/images/template-nextjs-ts-tailwinde.png)https://github.com/AnnSyh/template-nextjs-ts-tailwinde/blob/main/public/images/template-nextjs-ts-tailwinde.png)
