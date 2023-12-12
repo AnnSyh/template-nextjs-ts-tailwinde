@@ -26,4 +26,6 @@ pnpm create next-app --example with-tailwindcss with-tailwindcss-app
 
 Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
 
-![Image alt](https://github.com/AnnSyh/template-nextjs-ts-tailwinde/blob/main/public/images/profile.jpg
+## Foto
+
+![Image](https://github.com/AnnSyh/template-nextjs-ts-tailwinde/blob/main/public/images/profile.jpg)
